@@ -1,4 +1,4 @@
-class Main{
+class Smell{
     public ReportMailer(MailDestination[] destinations) {
         this.destinations = destinations;
 
